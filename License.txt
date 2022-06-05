@@ -1,0 +1,6 @@
+The Tim7 License
+
+Copyright (c) 2022 Tim7
+
+Nobody can fork this unless they contribute to the thing they forked.
+Rogue forks are stupid.
